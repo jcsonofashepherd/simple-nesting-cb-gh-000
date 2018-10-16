@@ -1,3 +1,4 @@
+def
 
 def hopper
 	programmer_hash = 
